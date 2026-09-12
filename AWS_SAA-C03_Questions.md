@@ -1,6 +1,6 @@
-# AWS SAA-C03 Question Bank (from PDF)
+# AWS SAA-C03 Question Bank
 
-Full set of AWS Certified Solutions Architect – Associate (SAA-C03) practice questions, converted from the source PDF. Questions and multiple-choice options only (no answer key in the source PDF).
+Full set of AWS Certified Solutions Architect – Associate (SAA-C03) practice questions.
 
 **Total Questions:** 684
 
